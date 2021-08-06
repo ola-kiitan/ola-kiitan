@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate 
-- 📫 You can reach me through my email- Olayinkaoginni2016Lgmail.com
+- 📫 You can reach me through my email- Olayinkaoginni2016@gmail.com
 
 <!---
 ola-kiitan/ola-kiitan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
