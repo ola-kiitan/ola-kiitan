@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ola-kiitan
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Typescript 
 - 💞️ I’m looking to collaborate 
 - 📫 You can reach me through my email- Olayinkaoginni2016@gmail.com
 
