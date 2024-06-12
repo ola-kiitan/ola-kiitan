@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ola-kiitan
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Typescript 
 - 💞️ I’m looking to collaborate 
 - 📫 You can reach me through my email- Olayinkaoginni2016@gmail.com or www.linkedin.com/in/olayinka-oginni
 
